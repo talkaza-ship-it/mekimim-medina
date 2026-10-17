@@ -1,2 +1,2 @@
-# mekimim-medina
+index.html
 משחק חקר באזרחות לכיתה יא 4
